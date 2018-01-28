@@ -60,6 +60,7 @@ a {
 }
 
 a:hover {
+  color: grey
   text-decoration: underline;
 }
 
